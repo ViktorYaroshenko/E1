@@ -1,0 +1,45 @@
+.navigation {
+    float: right;
+    height: 100%;
+}
+
+.navigation li {
+    display: inline;
+    padding: 0px 20px;
+}
+
+.navigation a {
+    background-color: #2E8B57;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+}
+
+.navigation a:hover {
+    background-color: #F5F5F5;
+    color: DarkGreen;
+}
+
+.header {
+    background-color: #2E8B57;
+        }
+
+.inner-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+        }
+.logo-container h1 {
+    margin: 0;
+    padding: 0;
+    color: white;
+        }
+
+.center-text {
+            text-align: center;
+        }
+
+
+
+
